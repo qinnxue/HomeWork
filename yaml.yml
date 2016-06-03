@@ -1,0 +1,5 @@
+api: https://api.github.com/issues
+
+api1: https://api.github.com/user/orgs
+
+api2: https://api.github.com/search/issues?q={query}{&page,per_page,sort,order}
